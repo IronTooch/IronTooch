@@ -1,6 +1,7 @@
 ### IronTooch
 
-I'm just a dude, playing a dude, disguised as an Infrastucture as Code / DevOps Engineer.
+I'm just a man, standing in front of a console, begging it to Lint.
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenvtuccio/)
   
 ***
