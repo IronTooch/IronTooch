@@ -1,6 +1,7 @@
 ### IronTooch
 
 I'm just a dude, playing a dude, disguised as an Infrastucture as Code / DevOps Engineer.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenvtuccio/)
   
 ***
 List of great things I'd love to develop / add with my huge abudance of free time (in no particular order):
@@ -19,9 +20,12 @@ List of great things I'd love to develop / add with my huge abudance of free tim
 * MaKe a bookmarking self-hosted solution that isn't awful
 
 Software / Packages I use:
-![Protonmail](https://img.shields.io/badge/Protonmail-Visionary-8A90C7?style=for-the-badge&logo=windows&logoColor=white)
-![Bitwarden](https://img.shields.io/badge/Bitwarden-Self_Hosted-155bdb?style=for-the-badge&logo=bitwarden&logoColor=white)
-
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/Bitwarden-155bdb?style=for-the-badge&logo=bitwarden&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-0071bc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Stuff I run:
 ![Windows](https://img.shields.io/badge/Windows-Surface_Book_2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -30,6 +34,14 @@ Stuff I run:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-20.04.03_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-6.2-e57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-5-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Tesla](https://img.shields.io/badge/Tesla-Model_3-EE0000?style=for-the-badge&logo=tesla&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 Stuff I am:
 * To Do
+  
+  
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+Proud Graduate of the ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) school of Computer Science.
