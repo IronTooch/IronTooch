@@ -20,7 +20,8 @@ List of great things I'd love to develop / add with my huge abudance of free tim
 * Finish my HomeLab crazy galaxy project. Come up with some sane deployment order
 * MaKe a bookmarking self-hosted solution that isn't awful
 
-Software / Packages I use:
+Software / Packages I use:  
+
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-155bdb?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-0071bc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -28,7 +29,8 @@ Software / Packages I use:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Stuff I run:
+Stuff I run:  
+
 ![Windows](https://img.shields.io/badge/Windows-Surface_Book_2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Samsung_Note_20_Ultra-A4C639?style=for-the-badge&logo=android&logoColor=white&Color=black)
 ![Redhat](https://img.shields.io/badge/Redhat-8-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
