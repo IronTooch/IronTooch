@@ -14,7 +14,8 @@ List of great things I'd love to develop / add with my huge abudance of free tim
     * Galaxy Role Downloads 
     * Galaxy Collection Name
     * Galaxy Collection Downloads
-* Make new Ansible-Lint and YamlLint Github action that isn't hugely broken and runs in reasonable time™
+* Make frontend for Step CA (Medium-Step) that has an API layer and a front-end (Django/Flask + Some-API-layer)
+* Make new Ansible-Lint and YamlLint Github action that isn't hugely broken and runs in reasonable time™. Fix mine (probably)
 * Contribute to (or otherwise make sane) the Bitwarden API and/or docs 
 * Contribute to (or otherwise make sane) the BounCA API and/or docs
 * Finish my HomeLab crazy galaxy project. Come up with some sane deployment order
