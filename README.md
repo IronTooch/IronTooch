@@ -3,7 +3,11 @@
 I'm just a man, standing in front of a console, begging it to Lint.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenvtuccio/)
-  
+
+I love all sorts of technology, but I'd be lying if I said that one particular technology doesn't have a special place in my heart. 
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
+
 ***
 List of great things I'd love to develop / add with my huge abudance of free time (in no particular order):
 * [Contribute](https://github.com/ansible-community/ansible-lint) to `ansible-lint` and add raw counts of warnings / failures
