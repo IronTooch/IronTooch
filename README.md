@@ -4,7 +4,7 @@ I'm just a man, standing in front of a console, begging it to Lint.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenvtuccio/)
 
-I love all sorts of technology, but I'd be lying if I said that one particular technology doesn't have a special place in my heart. 
+I love all sorts of technology, but I'd be lying if I said that one particular technology doesn't have a special place in my heart... 
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
 
