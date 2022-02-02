@@ -14,6 +14,7 @@ List of great things I'd love to develop / add with my huge abudance of free tim
 * [Contribute](https://github.com/pypa/pip) to `pip3` and add "Get latest version number of **package**"
 * [Contribute](https://github.com/ansible/ansible) to `ansible` and add an option to shell/command to just PRINT THE OUTPUT. Seriously, why isn't this a feature?
 * [Contribute](https://github.com/ansible/ansible) to `ansible` and make a module for "Pull latest release from Github"
+* [Contribute](https://github.com/ansible/ansible) to `ansible` and clear up / Amend Composable to be able to add regular strings to compose command for inventory plugins
 * [Contribute](https://github.com/badges/shields) to `shields.io` and fix the Ansible Galaxy shields / add new shields for Ansible
     * Galaxy Role Name [(by name, instead of role number)](https://github.com/badges/shields/issues/286)
     * Galaxy Role Downloads 
