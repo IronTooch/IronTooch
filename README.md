@@ -15,16 +15,17 @@ List of great things I'd love to develop / add with my huge abudance of free tim
 * [Contribute](https://github.com/ansible/ansible) to `ansible` and add an option to shell/command to just PRINT THE OUTPUT. Seriously, why isn't this a feature?
 * [Contribute](https://github.com/ansible/ansible) to `ansible` and make a module for "Pull latest release from Github"
 * [Contribute](https://github.com/ansible/ansible) to `ansible` and clear up / Amend Composable to be able to add regular strings to compose command for inventory plugins
+* [Contribue](https://github.com/ansible-collections/community.general/blob/main/plugins/inventory/proxmox.py) to Ansible's `community.general.proxmox` module and add a setting to use IP addresses instead of hostnames for hosts
 * [Contribute](https://github.com/badges/shields) to `shields.io` and fix the Ansible Galaxy shields / add new shields for Ansible
     * Galaxy Role Name [(by name, instead of role number)](https://github.com/badges/shields/issues/286)
     * Galaxy Role Downloads 
     * Galaxy Collection Name
     * Galaxy Collection Downloads
 * Make frontend for Step CA (Medium-Step) that has an API layer and a front-end (Django/Flask + Some-API-layer (Probably [FastAPI](https://github.com/tiangolo/fastapi) Falcon / Molten / Restful))
+* Make API frontend for CoreDNS to add / change records
 * Make new Ansible-Lint and YamlLint Github action that isn't hugely broken and runs in reasonable time™. Fix mine (probably)
 * Contribute to (or otherwise make sane) the Bitwarden API and/or docs 
-* Contribute to (or otherwise make sane) the BounCA API and/or docs
-* Finish my HomeLab crazy galaxy project. Come up with some sane deployment order
+* Finish my HomeLab crazy galaxy project. Come up with some sane-ish deployment order
 * MaKe a bookmarking self-hosted solution that isn't awful
 
 Software / Packages I use:  
