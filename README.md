@@ -16,6 +16,8 @@ List of great things I'd love to develop / add with my huge abudance of free tim
 * [Contribute](https://github.com/ansible/ansible) to `ansible` and make a module for "Pull latest release from Github"
 * [Contribute](https://github.com/ansible/ansible) to `ansible` and clear up / Amend Composable to be able to add regular strings to compose command for inventory plugins
 * [Contribute](https://github.com/ansible/ansible) to `ansible` and add "print output" and "register output" to shell and command modules
+* [Contribute](https://github.com/ansible/ansible) to `ansible` and add "check" module to just get a boolean if something is in / matches command output
+* [Contribute](https://github.com/ansible/ansible) to `ansible` and add lookup plugin update for remote source
 * [Contribue](https://github.com/ansible-collections/community.general/blob/main/plugins/inventory/proxmox.py) to Ansible's `community.general.proxmox` module and add a setting to use IP addresses instead of hostnames for hosts
 * [Contribute](https://github.com/badges/shields) to `shields.io` and fix the Ansible Galaxy shields / add new shields for Ansible
     * Galaxy Role Name [(by name, instead of role number)](https://github.com/badges/shields/issues/286)
