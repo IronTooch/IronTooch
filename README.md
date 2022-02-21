@@ -28,6 +28,7 @@ List of great things I'd love to develop / add with my huge abudance of free tim
 * Make frontend for Step CA (Medium-Step) that has an API layer and a front-end (Django/Flask + Some-API-layer (Probably [FastAPI](https://github.com/tiangolo/fastapi) Falcon / Molten / Restful))
 * Make API frontend for CoreDNS to add / change records
 * Make new Ansible-Lint and YamlLint Github action that isn't hugely broken and runs in reasonable time™. Fix mine (probably)
+* Make a new self-hosted calendar app with a Python or C# backend, to get away from PHP apps. Include [ALL THE SPECS](https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations) haha.
 * Contribute to (or otherwise make sane) the Bitwarden API and/or docs 
 * Finish my HomeLab crazy galaxy project. Come up with some sane-ish deployment order
 * Make a bookmarking self-hosted solution that isn't awful
